@@ -1,2 +1,3 @@
 Hello world!
 masodik
+”sokat tanuljal ez a tanacsom”
